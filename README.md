@@ -1,5 +1,7 @@
 # ROG × 德蕾琪娜 OpenCore 1.0.9 主题引导
 
+![引导界面效果](preview.jpg)
+
 基于 **OpenCore 1.0.9 RELEASE**（commit `8d8d690`，2026-10-31 构建）的图形化引导 EFI，
 附带自制的 ROG 风格主题（图标 + 背景 + 联名标识）。
 
